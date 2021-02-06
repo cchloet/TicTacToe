@@ -1,2 +1,2 @@
 # TicTacToe
-Capstone project
+Personal project
